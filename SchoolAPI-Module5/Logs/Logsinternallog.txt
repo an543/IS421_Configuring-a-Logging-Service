@@ -1,0 +1,4 @@
+2020-06-05 06:26:07.7837 Trace Opening C:\Users\keith\Source\Repos\kaw393939\SchoolAPI\Logs\2020-06-05_logfile.txt with allowFileSharedWriting=False
+2020-06-05 06:26:07.8176 Trace Opening C:\Users\keith\Source\Repos\kaw393939\SchoolAPI\Logs\2020-06-05_logfile.txt with allowFileSharedWriting=False
+2020-06-05 06:26:07.8338 Trace Opening C:\Users\keith\Source\Repos\kaw393939\SchoolAPI\Logs\2020-06-05_logfile.txt with allowFileSharedWriting=False
+2020-06-05 06:26:07.8572 Trace Opening C:\Users\keith\Source\Repos\kaw393939\SchoolAPI\Logs\2020-06-05_logfile.txt with allowFileSharedWriting=False
